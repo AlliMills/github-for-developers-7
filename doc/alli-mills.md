@@ -1,7 +1,7 @@
 **This is my intro**
 
-*Alli Mills
-*Canada
-*Tech
+**Name:** Alli Mills
+**Location:** Canada
+**I like:** Tech
 **favourite colour:** Green
 
